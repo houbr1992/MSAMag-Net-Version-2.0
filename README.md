@@ -7,5 +7,9 @@ MSAMag-Net
 **4.datapregrocess.py** is data pregrocess before input model.  
 **5.tfresfunc.py** convert tfrecords to files.  
 **6.LRDecays.py** is the learning rate decays.  
-**files**  
-
+**files**    
+**Mag_TVT_4Reg2E_rmLSNR.pkl** is event catalog.    
+**Mu_Sigma_snr2_200km.pkl** contains 2700 groups C, Mu, Sigma.   
+**Mu_Sigma_snr2_200km_ABC.pkl** contains is the linear magnitude estiamtoin coefficient.  
+**Examples_1015.pkl** is the Alternative event catalog for show the magnitude esitmation model.   
+**checkp*** are the model coefficient files.  
