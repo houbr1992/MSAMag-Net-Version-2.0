@@ -5,4 +5,4 @@ MSAMag-Net<\br>
 **3.dataparamsline.py** is the read the parameters files. <\br>
 **4.datapregrocess.py** is data pregrocess before input model.<\br>
 **5.tfresfunc.py** convert tfrecords to files. <\br>
-**6.LRDecays.py** is the learning rate decays.<\br>
+**6.LRDecays.py** is the learning rate decays. <\br>
